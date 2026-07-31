@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=220&section=header&text=Jonathan%20Zambrano&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%40%20ULEAM%20%7C%20DevOps%20%26%20Backend%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=220&section=header&text=Jonathan%20Zambrano&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%40%20ULEAM%20%7C%20DevOps%20y%20Backend%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -21,7 +21,6 @@
 - 🔭 Actualmente enfocado en desarrollar **arquitecturas robustas** y **pipelines de CI/CD**.
 - 🐳 Apasionado por la automatización de infraestructura, contenedores (**Docker/K8s**) y sistemas escalables.
 - 📍 Escribiendo código y levantando servidores desde el calor de **Manta, Ecuador**.
-- 💻 Mi entorno de desarrollo corre sobre un **i5-12450H**, listo para múltiples contenedores y VMs.
 - 🕹️ Fuera del editor: directos en **Kick**, partidas de **Valorant** o farmeando en **Minecraft con Cobblemon**.
 - 🎵 Concentración máxima activada con una buena **salsa** de fondo.
 - 🤝 Buscando colaborar en proyectos **open-source** de DevOps o arquitecturas back-end sólidas.
@@ -69,11 +68,12 @@
 
 <div align="center">
 
-[![Youtify](https://github-readme-stats.vercel.app/api/pin/?username=jonathanZM15&repo=Youtify&theme=radical&border_radius=10&border_color=EC4899)](https://github.com/jonathanZM15/Youtify)
-[![FacturaElectronica-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=jonathanZM15&repo=FacturaElectronica-Frontend&theme=radical&border_radius=10&border_color=EC4899)](https://github.com/jonathanZM15/FacturaElectronica-Frontend)
-
-[![PAYPHONE](https://github-readme-stats.vercel.app/api/pin/?username=jonathanZM15&repo=PAYPHONE&theme=radical&border_radius=10&border_color=EC4899)](https://github.com/jonathanZM15/PAYPHONE)
-[![TriggerEmpleados](https://github-readme-stats.vercel.app/api/pin/?username=jonathanZM15&repo=TriggerEmpleados&theme=radical&border_radius=10&border_color=EC4899)](https://github.com/jonathanZM15/TriggerEmpleados)
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| 🎵 [**Youtify**](https://github.com/jonathanZM15/Youtify) | Plataforma orientada a streaming/gestión de música | ![](https://img.shields.io/github/languages/top/jonathanZM15/Youtify?style=flat-square&color=EC4899) |
+| 🧾 [**FacturaElectronica-Frontend**](https://github.com/jonathanZM15/FacturaElectronica-Frontend) | Frontend para sistema de facturación electrónica | ![](https://img.shields.io/github/languages/top/jonathanZM15/FacturaElectronica-Frontend?style=flat-square&color=6366F1) |
+| 💳 [**PAYPHONE**](https://github.com/jonathanZM15/PAYPHONE) | Integración con la pasarela de pagos Payphone | ![](https://img.shields.io/github/languages/top/jonathanZM15/PAYPHONE?style=flat-square&color=EC4899) |
+| 📱 [**TAMATS-FRONT**](https://github.com/jonathanZM15/TAMATS-FRONT) | App móvil (Android Studio) de tipo social/dating con match de usuarios y feed de contenido estilo scroll vertical | ![](https://img.shields.io/github/languages/top/jonathanZM15/TAMATS-FRONT?style=flat-square&color=6366F1) |
 
 </div>
 
