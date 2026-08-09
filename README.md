@@ -8,7 +8,7 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/jonathanZM15?label=Follow&style=for-the-badge&color=EC4899&logo=github)](https://github.com/jonathanZM15)
+[![GitHub followers](https://img.shields.io/github/followers/jonathanZM15?label=Followers&style=for-the-badge&color=EC4899&logo=github)](https://github.com/jonathanZM15)
 [![Profile Views](https://komarev.com/ghpvc/?username=jonathanZM15&label=Profile%20Views&color=6366F1&style=for-the-badge)](https://github.com/jonathanZM15)
 
 </div>
@@ -17,8 +17,10 @@
 
 ### 👨‍💻 Sobre mí
 
+> *Construyendo la infraestructura de mañana y el software de hoy, desde Ecuador para el mundo.* 🌍
+
 - 🎓 Estudiante avanzado de **Tecnologías de la Información** en la **ULEAM**, Ecuador.
-- 🔭 Actualmente enfocado en desarrollar **arquitecturas robustas** y **pipelines de CI/CD**.
+- 🔭 Actualmente enfocado en desarrollar **arquitecturas robustas**, **microservicios** y **pipelines de CI/CD**.
 - 🐳 Apasionado por la automatización de infraestructura, contenedores (**Docker/K8s**) y sistemas escalables.
 - 📍 Escribiendo código y levantando servidores desde el calor de **Manta, Ecuador**.
 - 🕹️ Fuera del editor: directos en **Kick**, partidas de **Valorant** o farmeando en **Minecraft con Cobblemon**.
@@ -31,20 +33,22 @@
 
 <div align="center">
 
-**Frontend & Mobile**
-
+**Frontend & Mobile**<br/>
 ![](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=8)
 
-**Backend & Data**
+<br/>
 
+**Backend & Data**<br/>
 ![](https://skillicons.dev/icons?i=php,laravel,python,nodejs,express,mysql,postgres,mongodb&perline=8)
 
-**DevOps & Infraestructura**
+<br/>
 
+**DevOps & Infraestructura**<br/>
 ![](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,nginx,bash&perline=8)
 
-**Herramientas & Más**
+<br/>
 
+**Herramientas & Más**<br/>
 ![](https://skillicons.dev/icons?i=vscode,postman,figma,vercel&perline=8)
 
 </div>
@@ -72,8 +76,8 @@
 |---|---|---|
 | 🎵 [**Youtify**](https://github.com/jonathanZM15/Youtify) | Plataforma orientada a streaming/gestión de música | ![](https://img.shields.io/github/languages/top/jonathanZM15/Youtify?style=flat-square&color=EC4899) |
 | 🧾 [**FacturaElectronica-Frontend**](https://github.com/jonathanZM15/FacturaElectronica-Frontend) | Frontend para sistema de facturación electrónica | ![](https://img.shields.io/github/languages/top/jonathanZM15/FacturaElectronica-Frontend?style=flat-square&color=6366F1) |
-| 💳 [**PAYPHONE**](https://github.com/jonathanZM15/PAYPHONE) | Integración con la pasarela de pagos Payphone | ![](https://img.shields.io/github/languages/top/jonathanZM15/PAYPHONE?style=flat-square&color=EC4899) |
-| 📱 [**TAMATS-FRONT**](https://github.com/jonathanZM15/TAMATS-FRONT) | App móvil (Android Studio) de tipo social/dating con match de usuarios y feed de contenido estilo scroll vertical | ![](https://img.shields.io/github/languages/top/jonathanZM15/TAMATS-FRONT?style=flat-square&color=6366F1) |
+| 💰 [**SIS-FINANCIERO**](https://github.com/jonathanZM15/SIS-FINANCIERO) | Sistema financiero personal con reportes, metas de ahorro y préstamos | ![](https://img.shields.io/github/languages/top/jonathanZM15/SIS-FINANCIERO?style=flat-square&color=EC4899) |
+| 📱 [**TAMATS-FRONT**](https://github.com/jonathanZM15/TAMATS-FRONT) | App móvil de tipo social/dating con match de usuarios y feed vertical | ![](https://img.shields.io/github/languages/top/jonathanZM15/TAMATS-FRONT?style=flat-square&color=6366F1) |
 
 </div>
 
@@ -83,10 +87,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jonathanZM15&show_icons=true&theme=radical&border_radius=10&border_color=EC4899&hide_border=false&count_private=true" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonathanZM15&theme=radical" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanZM15&theme=radical&border_radius=10&border=EC4899&hide_border=false" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanZM15&layout=compact&theme=radical&border_radius=10&border_color=EC4899&hide_border=false" width="49%"/>
 
 </div>
 
@@ -101,7 +103,7 @@
 [![Kick](https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black)](https://kick.com/jonathan1504)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanz1504@gmail.com)
 
-<br/>
+<br/><br/>
 
 > *"El código es poesía escrita en binario."*
 
