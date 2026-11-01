@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Jonathan Zambrano — Backend y DevOps</title>
+  <desc id="desc">Cabecera con fondo oscuro, acentos violeta y rosa y un diagrama de código, construcción y despliegue.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101827"/><stop offset="1" stop-color="#18152D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/><stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" stroke="#FFFFFF" stroke-opacity=".1"/>
+  <path d="M34 1H1166" stroke="url(#accent)" stroke-width="2"/>
+  <g stroke="#A78BFA" stroke-opacity=".05">
+    <path d="M780 0V300M840 0V300M900 0V300M960 0V300M1020 0V300M1080 0V300M1140 0V300"/>
+    <path d="M750 60H1200M750 120H1200M750 180H1200M750 240H1200"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="54" y="62" fill="#B6A4F5" font-size="14" font-weight="600" letter-spacing="3">JZ / DESARROLLO DE SOFTWARE</text>
+    <text x="50" y="143" fill="#F0F3FA" font-size="61" font-weight="700" letter-spacing="-2">Jonathan Zambrano</text>
+    <text x="54" y="192" fill="#D0D5E1" font-size="25">Backend &amp; DevOps</text>
+    <text x="54" y="248" fill="#9CA8BF" font-size="18">Estudiante de TI en ULEAM · Manta, Ecuador</text>
+  </g>
+  <g transform="translate(852 55)">
+    <rect width="280" height="191" rx="12" fill="#0D1117" fill-opacity=".65" stroke="#42425C"/>
+    <path d="M0 35H280" stroke="#343449"/>
+    <circle cx="17" cy="18" r="4" fill="#F472B6"/>
+    <circle cx="31" cy="18" r="4" fill="#A78BFA"/>
+    <circle cx="45" cy="18" r="4" fill="#677186"/>
+    <text x="20" y="70" fill="#96A3B9" font-family="Consolas, 'Courier New', monospace" font-size="13">// del código al despliegue</text>
+    <path d="M44 107H233" stroke="#4B4666" stroke-width="2"/>
+    <circle cx="44" cy="107" r="15" fill="#242037" stroke="#A78BFA"/>
+    <circle cx="139" cy="107" r="15" fill="#242037" stroke="#B695E7"/>
+    <circle cx="234" cy="107" r="15" fill="#242037" stroke="#F472B6"/>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="12" text-anchor="middle">
+      <text x="44" y="112" fill="#D7C8FF">01</text>
+      <text x="139" y="112" fill="#D7C8FF">02</text>
+      <text x="234" y="112" fill="#F7BEDB">03</text>
+      <text x="44" y="151" fill="#BFC7D5">code</text>
+      <text x="139" y="151" fill="#BFC7D5">build</text>
+      <text x="234" y="151" fill="#BFC7D5">deploy</text>
+    </g>
+  </g>
+</svg>
